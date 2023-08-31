@@ -1,7 +1,7 @@
 # Asterisk Xenzia Game (AXG)
 Intel 8088 Processor Assembly Language implementation of Asterisk Xenzia Game (AXG). DosBox emulator is also provided to load and run the game.
 
-# AXG Game Instructions: 
+# AXG Instructions: 
 - At the start an asterisk (*) is displayed at the centre of the DosBox console.
 - On the first keystroke, timer starts.
 - Upon pressing the up/down/left/right keyboard button asterisk moves accordingly.
